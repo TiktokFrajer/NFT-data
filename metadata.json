@@ -46,12 +46,6 @@
       "trait_type": "Version",
       "value": "DeGod"
     },
-    {
-      "trait_type": "Rarity Rank",
-      "value": 109,
-      "display_type": "number",
-      "max_value": 111
-    }
   ],
   "properties": {
     "files": [
