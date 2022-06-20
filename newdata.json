@@ -3,7 +3,7 @@
   "symbol": "DeGods",
   "description": "10,000 of the most degenerate gods in the universe.",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/TiktokFrajer/NFT-data/main/0.png",
+  "image": "https://metadata.degods.com/g/2573.png",
   "external_url": "",
   "collection": {
     "name": "PickleTown",
@@ -50,7 +50,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/TiktokFrajer/NFT-data/main/0.png",
+        "uri": "https://metadata.degods.com/g/2573.png",
         "type": "image/png"
       }
     ],
